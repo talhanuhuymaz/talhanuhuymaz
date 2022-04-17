@@ -1,6 +1,6 @@
 Hi 👋 My name is Talha Nuh Uymaz 
 ================================
-IT Student and Game Developer 
+IT Student At Yeditepe University
 ----------------------------- 
 I have done many pixel designs with Aseprite. I have used animation in some of my projects. I am interested in game development and have used my designs in these game projects. I want to improve myself in the field of software and take part in good projects. 
  * 🌍  I'm based in Istanbul
