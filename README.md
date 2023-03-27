@@ -1,4 +1,4 @@
-Hi 👋 I'm Talha Nuh 
+Hi 🙌🏻 I'm Talha Nuh 
 ================================
 IT student at Yeditepe University
 ----------------------------- 
