@@ -1,8 +1,8 @@
-Hi 👋 My name is Talha Nuh Uymaz 
+Hi 👋 I'm Talha Nuh 
 ================================
 IT student at Yeditepe University
 ----------------------------- 
-I'm interested in mobile app and game development. I'm an information systems student, so I am improving myself in programming languages such as C++, Python, Html & Css, etc. 
+I'm interested in mobile app and game development. I'm an information systems student, so I'm improving myself in programming languages such as C++, Python, Html & Css, etc. 
  * 🌍  I'm based in Istanbul
  * ✉️  You can contact me at [talha\_nuh@hotmail.com](mailto:talha_nuh@hotmail.com )
 
