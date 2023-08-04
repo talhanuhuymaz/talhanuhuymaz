@@ -1,6 +1,6 @@
 Hi 🙌🏻 I'm Talha Nuh 
 ================================
-IT student at Yeditepe University
+Computer Science student at Yeditepe University
 ----------------------------- 
 I'm interested in mobile app and game development. I'm an information systems student, so I'm improving myself in programming languages such as C++, Python, Html & Css, etc. 
  * 🌍  I'm based in Istanbul
