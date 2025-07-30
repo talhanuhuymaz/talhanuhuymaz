@@ -14,4 +14,4 @@ I'm interested in mobile app and game development. I'm an information systems st
  
  <p align="left"> <a href="https://discord.com/users/NoahReign#8133" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/talhanuhuymaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/talhanuhuymaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talhanuhuymaz&theme=swift&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=talhanuhuymaz&theme=dark&hide_border=true&border_radius=10&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
